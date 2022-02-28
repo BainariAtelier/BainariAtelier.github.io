@@ -1,7 +1,6 @@
 {
   "PlayerName": "Unknow",
-  "Balls": 
-  [
+  "Balls": [
     {
       "nameUser": "Bob",
       "Licence": "123456"
@@ -9,6 +8,10 @@
     {
       "nameUser": "Bob2",
       "Licence": "085436"
+    },
+    {
+      "nameUser": "Bob3",
+      "Licence": "078463"
     }
   ]
 }
