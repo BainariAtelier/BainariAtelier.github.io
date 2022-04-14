@@ -4,22 +4,12 @@
     {
       "nameUser": "010101",
       "eMail": "010101",
-      "Licence": "000001"
+      "Licence": "877578"
     },
     {
       "nameUser": "010102",
       "eMail": "010101",
       "Licence": "000002"
-    },
-    {
-      "nameUser": "010103",
-      "eMail": "010101",
-      "Licence": "000003"
-    },
-    {
-      "nameUser": "010104",
-      "eMail": "010101",
-      "Licence": "000004"
     }
   ]
 }
