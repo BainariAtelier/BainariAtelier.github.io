@@ -1,0 +1,15 @@
+{
+  "PlayerName": "Unknow",
+  "Balls": [
+    {
+      "nameUser": "111111",
+      "eMail": "111111",
+      "Licence": "111111"
+    },
+    {
+      "nameUser": "000000",
+      "eMail": "000000",
+      "Licence": "000000"
+    }
+  ]
+}
